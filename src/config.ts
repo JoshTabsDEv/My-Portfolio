@@ -4,10 +4,10 @@ export const siteConfig = {
   description: "Portfolio website of Joshua Tabura",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
+    email: "tabura.joshua10@gmail.com",
     linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    twitter: "",
+    github: "https://github.com/JoshTabsDEv",
   },
   aboutMe:
     "Aspiring IT Intern seeking hands-on experience in software development and technology operations. Eager to apply foundational skills in web development, AR technologies, and problem-solving while contributing to a dynamic and growth-oriented tech environment.",
@@ -17,8 +17,8 @@ export const siteConfig = {
       name: "Bohol Lens",
       description:
         "Developed an immersive augmented reality (AR) museum application that showcases Bohol’s cultural heritage through interactive digital exhibits. The project integrates AR-based navigation, 3D artifact visualization, and user-friendly interfaces to enhance visitor engagement and learning. Led the implementation of AR interactions, 3D model integration, and performance optimization for Android devices, ensuring a smooth and engaging on-site museum experience using Unity, AR Foundation, and Vuforia.",
-      link: "https://404-reality-not-found.vercel.app",
-      skills: ["Google AR Core", "C#", "AR Foundation"],
+        link: "https://404-reality-not-found.vercel.app",
+        skills: ["Google AR Core", "C#", "AR Foundation"],
     },
     {
       name: "Computer-Aided Learning Management System for Senior High School Students of Cristal e-College",
