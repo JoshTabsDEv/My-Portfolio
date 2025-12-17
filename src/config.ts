@@ -5,7 +5,7 @@ export const siteConfig = {
   accentColor: "#1d4ed8",
   social: {
     email: "tabura.joshua10@gmail.com",
-    linkedin: "https://www.linkedin.com/in/joshua-tabura-7947071a1",
+    linkedin: "https://linkedin.com/in/yourprofile",
     twitter: "",
     github: "https://github.com/JoshTabsDEv",
   },
@@ -46,7 +46,7 @@ export const siteConfig = {
       degree: "Bachelor of Science in Information Technology",
       dateRange: "2022 - Present",
       achievements: [
-        "President of Cristal e-College Programmer's Guild",
+        "President of Cristal e-College Programmer's Guild 2024 - 2025",
       ],
     },
   ],
