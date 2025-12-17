@@ -5,7 +5,7 @@ export const siteConfig = {
   accentColor: "#1d4ed8",
   social: {
     email: "tabura.joshua10@gmail.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
+    linkedin: "https://www.linkedin.com/in/joshua-tabura-7947071a1",
     twitter: "",
     github: "https://github.com/JoshTabsDEv",
   },
